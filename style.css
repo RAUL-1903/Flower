@@ -7,7 +7,7 @@
 }
 
 :root {
-  --dark-color: #ffffff;
+  --dark-color: #000;
 }
 
 .hearts {
@@ -59,7 +59,7 @@
   z-index: 100;
   opacity: 0;
   animation: show-title 1s 3s forwards;
-  color: white;
+  color: #ffffff;
 }
 
 @keyframes show-title {
