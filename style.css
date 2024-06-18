@@ -59,6 +59,7 @@
   z-index: 100;
   opacity: 0;
   animation: show-title 1s 3s forwards;
+  color: white;
 }
 
 @keyframes show-title {
